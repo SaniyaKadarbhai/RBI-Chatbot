@@ -22,7 +22,7 @@ st.markdown("""
         border-radius: 8px;
         padding: 10px;
     }
-    .rbi-header {
+    .rbi-header {g
         text-align: center;
         font-size: 32px;
         color: #002868;
